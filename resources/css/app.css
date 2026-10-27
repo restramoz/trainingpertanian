@@ -1,0 +1,239 @@
+@import 'tailwindcss';
+
+/* Flowbite (Tailwind v4) */
+@import "flowbite/src/themes/default";
+@plugin "flowbite/plugin";
+@source "../node_modules/flowbite";
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+@source '../views/**/*.blade.php';
+
+@theme {
+    --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+    /* TLANING PERTANIAN BRAND PALETTE — 5 approved colors */
+    --color-forest: #0F5132;
+    --color-leaf: #16A34A;
+    --color-amber: #F59E0B;
+    --color-cream: #F8FAF7;
+    --color-charcoal: #1F2937;
+
+    /* Legacy alias tokens keep existing utility class names working across
+       views/map onto the brand palette. Charcoal = dark surfaces & text,
+       forest = deep green, amber = CTA highlight.
+       #15803D is a green-700 shade of the leaf family, kept for WCAG AA
+       (4.5:1) on small accent text and white-on-color badges. */
+    --color-industry-black: #1F2937;
+    --color-dark-mahogany: #0F5132;
+    --color-burnt-brick: #15803D;
+    --color-safety-orange: #F59E0B;
+
+    /* Semantic tokens */
+    --color-primary: #15803D;
+    --color-primary-dark: #0F5132;
+    --color-secondary: #16A34A;
+    --color-accent: #F59E0B;
+
+    /* Backward-compatible scales mapped safely to brand tokens */
+    --color-navy-950: #1F2937;
+    --color-navy-900: #1F2937;
+    --color-navy-800: #0F5132;
+    --color-navy-700: #0F5132;
+
+    --color-slate-950: #1F2937;
+    --color-slate-900: #1F2937;
+    --color-slate-800: #1F2937;
+    --color-slate-700: #0F5132;
+    --color-slate-600: #0F5132;
+    --color-slate-500: #6B7280;
+
+    --color-concrete-50: #F8FAF7;
+    --color-concrete-100: #F0F5F0;
+    --color-concrete-200: #E2EAE2;
+    --color-concrete-300: #D3E0D3;
+    --color-concrete-400: #9CA3AF;
+    --color-concrete-500: #6B7280;
+    --color-concrete-600: #0F5132;
+    --color-concrete-700: #0F5132;
+    --color-concrete-800: #1F2937;
+
+    --color-teal-700: #0F5132;
+    --color-teal-600: #0F5132;
+    --color-teal-500: #0F5132;
+    --color-teal-400: #16A34A;
+    --color-teal-soft: #F8FAF7;
+
+    --color-orange-400: #F59E0B;
+    --color-orange-500: #15803D;
+    --color-orange-600: #0F5132;
+    --color-orange-soft: #FEF3C7;
+
+    --color-emerald-400: #16A34A;
+    --color-emerald-500: #15803D;
+    --color-emerald-600: #0F5132;
+    --color-emerald-700: #0F5132;
+    --color-emerald-soft: #F8FAF7;
+}
+
+@layer base {
+    html {
+        scroll-behavior: smooth;
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+        html {
+            scroll-behavior: auto;
+        }
+        *, *::before, *::after {
+            animation-duration: 0.01ms !important;
+            animation-iteration-count: 1 !important;
+            transition-duration: 0.01ms !important;
+            scroll-behavior: auto !important;
+        }
+    }
+
+    body {
+        color: #1F2937;
+        background-color: #F8FAF7;
+    }
+}
+
+/* Custom utility classes */
+.bg-industry-black { background-color: #1F2937; }
+.bg-dark-mahogany { background-color: #0F5132; }
+.bg-burnt-brick { background-color: #15803D; }
+.bg-safety-orange { background-color: #F59E0B; }
+
+.text-industry-black { color: #1F2937; }
+.text-dark-mahogany { color: #0F5132; }
+.text-burnt-brick { color: #15803D; }
+.text-safety-orange { color: #F59E0B; }
+
+.border-industry-black { border-color: #1F2937; }
+.border-dark-mahogany { border-color: #0F5132; }
+.border-burnt-brick { border-color: #15803D; }
+.border-safety-orange { border-color: #F59E0B; }
+
+/* ============================================================
+   GLOBAL RESPONSIVE IMAGE RULES
+   Ensure all images scale within containers, never overflow
+   ============================================================ */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Hero/banner images that should fill fixed-ratio containers */
+.img-hero,
+.img-banner,
+.img-card-cover {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+/* Article/content images that should preserve natural proportions */
+.img-content {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
+
+/* Prevent horizontal overflow from images in flex/grid containers */
+.flex img,
+.grid img {
+    min-width: 0;
+    max-width: 100%;
+}
+
+/* Fix for images in fixed-height containers (cards, banners) */
+[class*="aspect-"] img,
+[class*="max-h-"] img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Ensure lazy-loaded images don't cause layout shift */
+img[loading="lazy"] {
+    min-height: 1px;
+}
+
+/* Responsive hero image sizing */
+.hero-image-mobile {
+    aspect-ratio: 16/9;
+    max-height: 220px;
+}
+@media (min-width: 640px) {
+    .hero-image-mobile {
+        max-height: 260px;
+    }
+}
+@media (min-width: 768px) {
+    .hero-image-mobile {
+        max-height: 300px;
+    }
+}
+
+.hero-image-desktop {
+    aspect-ratio: 16/9;
+    max-height: 420px;
+}
+@media (min-width: 1024px) {
+    .hero-image-desktop {
+        max-height: 480px;
+    }
+}
+@media (min-width: 1280px) {
+    .hero-image-desktop {
+        max-height: 520px;
+    }
+}
+
+/* Card image sizing */
+.card-image {
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    object-position: center;
+}
+
+/* Article featured image */
+.article-featured-image {
+    aspect-ratio: 16/9;
+    max-height: 400px;
+    object-fit: cover;
+    object-position: center;
+}
+@media (max-width: 639px) {
+    .article-featured-image {
+        max-height: 280px;
+    }
+}
+
+/* Statistics grid - prevent text clipping */
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+}
+@media (min-width: 640px) {
+    .stats-grid {
+        gap: 1.5rem;
+    }
+}
+.stat-item {
+    min-width: 0;
+}
+.stat-value {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.stat-label {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}

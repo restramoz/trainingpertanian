@@ -1,0 +1,1577 @@
+{
+ "title": "Agribisnis Ambisisi",
+ "schemes": [
+  {
+   "name": "Perunggasan Jenjang 5",
+   "lsp": null,
+   "units": [
+    {
+     "code": "A.01UGS00.001.01",
+     "name": "Menerapkan Prosedur Keselamatan dan Kesehatan Kerja (K3)"
+    },
+    {
+     "code": "A.01UGS00.002.01",
+     "name": "Mengorganisasikan Pekerjaan"
+    },
+    {
+     "code": "A.01UGS00.003.01",
+     "name": "Melakukan Komunikasi Efektif"
+    },
+    {
+     "code": "A.01UGS00.004.01",
+     "name": "Membangun Jejaring Kerja"
+    },
+    {
+     "code": "A.01UGS00.018.01",
+     "name": "Melakukan Biosekuriti"
+    },
+    {
+     "code": "A.01UGS00.029.01",
+     "name": "Menghitung Hasil Usaha Produk Unggas Pedaging"
+    },
+    {
+     "code": "A.01UGS00.030.01",
+     "name": "Menghitung Hasil Usaha Produk Pullet"
+    },
+    {
+     "code": "A.01UGS00.031.01",
+     "name": "Menghitung Hasil Usaha Produk Telur Konsumsi"
+    },
+    {
+     "code": "A.014900.002.01",
+     "name": "Menganalisis Potensi Produksi"
+    },
+    {
+     "code": "A.014900.003.01",
+     "name": "Menganalisis Permintaan Produk"
+    },
+    {
+     "code": "A.014900.004.01",
+     "name": "Menetapkan Skala Produksi"
+    },
+    {
+     "code": "A.014900.008.01",
+     "name": "Menjaga Lingkungan Budidaya"
+    },
+    {
+     "code": "A.01AGR00.008.1",
+     "name": "Mengelola Sistem Produksi"
+    },
+    {
+     "code": "A.01AGR00.014.1",
+     "name": "Menganalisis Data Produksi"
+    },
+    {
+     "code": "A.01AGR00.018.1",
+     "name": "Memonitor Proses Produksi"
+    },
+    {
+     "code": "A.01AGR00.035.1",
+     "name": "Menerapkan Prosedur Jaminan Mutu"
+    }
+   ]
+  },
+  {
+   "name": "Perunggasan Jenjang 6",
+   "lsp": null,
+   "units": [
+    {
+     "code": "A.01UGS00.001.01",
+     "name": "Menerapkan Prosedur Keselamatan dan Kesehatan Kerja (K3)"
+    },
+    {
+     "code": "A.01UGS00.002.01",
+     "name": "Mengorganisasikan Pekerjaan"
+    },
+    {
+     "code": "A.01UGS00.003.01",
+     "name": "Melakukan Komunikasi Efektif"
+    },
+    {
+     "code": "A.01UGS00.004.01",
+     "name": "Membangun Jejaring Kerja"
+    },
+    {
+     "code": "A.01UGS00.018.01",
+     "name": "Melakukan Biosekuriti"
+    },
+    {
+     "code": "A.01UGS00.029.01",
+     "name": "Menghitung Hasil Usaha Produk Unggas Pedaging"
+    },
+    {
+     "code": "A.01UGS00.030.01",
+     "name": "Menghitung Hasil Usaha Produk Pullet"
+    },
+    {
+     "code": "A.01UGS00.031.01",
+     "name": "Menghitung Hasil Usaha Produk Telur Konsumsi"
+    },
+    {
+     "code": "A.014900.002.01",
+     "name": "Menganalisis Potensi Produksi"
+    },
+    {
+     "code": "A.014900.003.01",
+     "name": "Menganalisis Permintaan Produk"
+    },
+    {
+     "code": "A.014900.004.01",
+     "name": "Menetapkan Skala Produksi"
+    },
+    {
+     "code": "A.014900.008.01",
+     "name": "Menjaga Lingkungan Budidaya"
+    },
+    {
+     "code": "A.01AGR00.008.1",
+     "name": "Mengelola Sistem Produksi"
+    },
+    {
+     "code": "A.01AGR00.011.1",
+     "name": "Mengelola Produksi Ternak"
+    },
+    {
+     "code": "A.01AGR00.014.1",
+     "name": "Menganalisis Data Produksi"
+    },
+    {
+     "code": "A.01AGR00.018.1",
+     "name": "Memonitor Proses Produksi"
+    },
+    {
+     "code": "A.01AGR00.019.1",
+     "name": "Melakukan Presentasi"
+    },
+    {
+     "code": "A.01AGR00.035.1",
+     "name": "Menerapkan Prosedur Jaminan Mutu"
+    }
+   ]
+  },
+  {
+   "name": "FASILITATOR PERTANIAN ORGANIK TANAMAN",
+   "lsp": null,
+   "units": [
+    {
+     "code": "TAN.OT01.001.01",
+     "name": "Mengorganisasikan Pekerjaan"
+    },
+    {
+     "code": "TAN.OT01.002.01",
+     "name": "Melakukan Komunikasi Efektif"
+    },
+    {
+     "code": "TAN.OT01.003.01",
+     "name": "Membangun Jejaring Kerja"
+    },
+    {
+     "code": "TAN.OT01.004.01",
+     "name": "Mengorganisasikan Kelompok Sasaran"
+    },
+    {
+     "code": "TAN.OT02.001.01",
+     "name": "Menganalisis Sejarah Lahan"
+    },
+    {
+     "code": "TAN.OT02.002.01",
+     "name": "Menyusun Program Fasilitasi"
+    },
+    {
+     "code": "TAN.OT02.004.01",
+     "name": "Melaksanakan Fasilitasi"
+    },
+    {
+     "code": "TAN.OT02.005.01",
+     "name": "Mengevaluasi Pelaksanaan Kegiatan Fasilitasi"
+    },
+    {
+     "code": "TAN.OT02.007.01",
+     "name": "Mengelola Konversi Lahan"
+    },
+    {
+     "code": "TAN.OT02.013.01",
+     "name": "Menilai Perlakuan Terhadap Ternak"
+    },
+    {
+     "code": "TAN.OT02.003.01",
+     "name": "Mempersiapkan Materi Fasilitasi"
+    },
+    {
+     "code": "TAN.OT02.006.01",
+     "name": "Melaksanakan Sistem Jaminan Mutu Organik"
+    },
+    {
+     "code": "TAN.OT02.008.01",
+     "name": "Memproses Pupuk Organik"
+    },
+    {
+     "code": "TAN.OT02.009.01",
+     "name": "Memproses Pestisida Organik"
+    },
+    {
+     "code": "TAN.OT02.010.01",
+     "name": "Mengelola Kesuburan Tanah"
+    },
+    {
+     "code": "TAN.OT02.011.01",
+     "name": "Mengelola Pengairan"
+    },
+    {
+     "code": "TAN.OT02.012.01",
+     "name": "Mempersiapkan Benih/Bahan Tanam Organik"
+    },
+    {
+     "code": "TAN.OT02.014.01",
+     "name": "Mengelola Panen dan Pasca Panen"
+    }
+   ]
+  },
+  {
+   "name": "INSPEKTOR PERTANIAN ORGANIK TANAMAN",
+   "lsp": null,
+   "units": [
+    {
+     "code": "TAN.OT01.005.01",
+     "name": "Menerapkan Sistem Inspeksi Efektif"
+    },
+    {
+     "code": "TAN.OT01.006.01",
+     "name": "Melakukan Komunikasi Efektif di Bidang Inspeksi"
+    },
+    {
+     "code": "TAN.OT01.007.01",
+     "name": "Menerapkan Prinsip Audit dalam Inspeksi"
+    },
+    {
+     "code": "TAN.OT01.008.01",
+     "name": "Menerapkan Kriteria Audit dalam Inspeksi"
+    },
+    {
+     "code": "TAN.OT02.015.01",
+     "name": "Menyusun Rencana Kerja Inspeksi"
+    },
+    {
+     "code": "TAN.OT02.016.01",
+     "name": "Mempersiapkan Perangkat Inspeksi"
+    },
+    {
+     "code": "TAN.OT02.017.01",
+     "name": "Melakukan Verifikasi Sejarah Lahan"
+    },
+    {
+     "code": "TAN.OT02.018.01",
+     "name": "Melakukan Verifikasi Dokumen Penerapan Pertanian Organik"
+    },
+    {
+     "code": "TAN.OT02.019.01",
+     "name": "Menilai Konversi Lahan"
+    },
+    {
+     "code": "TAN.OT02.020.01",
+     "name": "Menilai Pengelolaan Kesuburan Tanah"
+    },
+    {
+     "code": "TAN.OT02.021.01",
+     "name": "Menilai Pengelolaan Pengairan"
+    },
+    {
+     "code": "TAN.OT02.022.01",
+     "name": "Menilai Pupuk Organik"
+    },
+    {
+     "code": "TAN.OT02.023.01",
+     "name": "Menlai Persiapan Benih/Bahan Tanam Organik"
+    },
+    {
+     "code": "TAN.OT02.024.01",
+     "name": "Menilai Pestisida Organik"
+    },
+    {
+     "code": "TAN.OT02.025.01",
+     "name": "Menilai Pengendalian Organisme Pengganggu Tumbuhan (OPT) pada Pertanian Organik"
+    },
+    {
+     "code": "TAN.OT02.026.01",
+     "name": "Menilai Pengelolaan Panen"
+    },
+    {
+     "code": "TAN.OT02.027.01",
+     "name": "Menetapkan Hasil Inspeksi"
+    },
+    {
+     "code": "TAN.OT02.028.01",
+     "name": "Menyusun Laporan Inspeksi"
+    }
+   ]
+  },
+  {
+   "name": "SUPERVISOR PENGAWAS MUTU PAKAN",
+   "lsp": null,
+   "units": [
+    {
+     "code": "A.014000.001.01",
+     "name": "Menerapkan Kesehatan dan Keselamatan Kerja"
+    },
+    {
+     "code": "A.014000.002.01",
+     "name": "Mengorganisasikan Pekerjaan"
+    },
+    {
+     "code": "A.014000.003.01",
+     "name": "Melakukan Komunikasi"
+    },
+    {
+     "code": "A.014000.004.01",
+     "name": "Membangun Jejaring Kerja"
+    },
+    {
+     "code": "A.014000.005.01",
+     "name": "Menilai Sumber Benih"
+    },
+    {
+     "code": "A.014000.006.01",
+     "name": "Menilai Pelaksanaan Produksi Benih"
+    },
+    {
+     "code": "A.014000.007.01",
+     "name": "Menilai Benih"
+    },
+    {
+     "code": "A.014000.008.01",
+     "name": "Menilai Pelaksanaan Produksi Bibit Ternak"
+    },
+    {
+     "code": "A.014000.009.01",
+     "name": "Menilai Bibit"
+    },
+    {
+     "code": "A.014000.010.01",
+     "name": "Menilai Dokumen Benih dan/atau Bibit"
+    },
+    {
+     "code": "A.014000.011.01",
+     "name": "Menilai Persyaratan Teknis Peredaran"
+    },
+    {
+     "code": "A.014000.012.01",
+     "name": "Menilai Pengembangan Benih dan Bibit"
+    },
+    {
+     "code": "A.014000.013.01",
+     "name": "Melakukan Penyidikan Proses Produksi dan Peredaran Benih dan Bibit Ternak"
+    },
+    {
+     "code": "A.014000.014.01",
+     "name": "Menyiapkan Sampel"
+    },
+    {
+     "code": "A.014000.015.01",
+     "name": "Menyiapkan Rencana Pengujian"
+    },
+    {
+     "code": "A.014000.016.01",
+     "name": "Melakukan Pengujian Bahan Pakan dan Pakan"
+    },
+    {
+     "code": "A.014000.017.01",
+     "name": "Melakukan Analisa Pengujian"
+    }
+   ]
+  },
+  {
+   "name": "PENGAWAS BENIH TANAMAN",
+   "lsp": null,
+   "units": [
+    {
+     "code": "A.013020.001.01",
+     "name": "Menerapkan Keselamatan dan Kesehatan Kerja"
+    },
+    {
+     "code": "A.013020.002.01",
+     "name": "Mengorganisasikan Pekerjaan"
+    },
+    {
+     "code": "A.013020.003.01",
+     "name": "Melakukan Komunikasi"
+    },
+    {
+     "code": "A.013020.004.01",
+     "name": "Membangun Jejaring Kerja"
+    },
+    {
+     "code": "A.013020.005.01",
+     "name": "Melakukan Pengujian untuk Penetapan Varietas Unggul atau Kebun Sumber Benih"
+    },
+    {
+     "code": "A.013020.006.01",
+     "name": "Memeriksa Persyaratan untuk Penetapan Pohon/Rumpun Induk"
+    },
+    {
+     "code": "A.013020.007.01",
+     "name": "Melaksanakan Pengawasan Prapanen dan Panen Perbanyakan Benih Tanaman Secara Vegetatif dan Generatif"
+    },
+    {
+     "code": "A.013020.008.01",
+     "name": "Melaksanakan Pengawasan pascapanen Perbanyakan Benih Tanaman secara Vegetatif"
+    },
+    {
+     "code": "A.013020.009.01",
+     "name": "Melaksanakan Pengawasan pascapanen Perbanyakan Benih Tanaman secara Generatif"
+    },
+    {
+     "code": "A.013020.010.01",
+     "name": "Melakukan Pengecekan Mutu dan Pelabelan Ulang Benih"
+    },
+    {
+     "code": "A.013020.011.01",
+     "name": "Menangani Kasus Perbenihan"
+    },
+    {
+     "code": "A.013020.012.01",
+     "name": "Menyiapkan Pengujian"
+    },
+    {
+     "code": "A.013020.013.01",
+     "name": "Melakukan Pengujian"
+    },
+    {
+     "code": "A.013020.014.01",
+     "name": "Mengesahkan Label"
+    },
+    {
+     "code": "A.013020.015.01",
+     "name": "Melakukan Supervisi Pemasangan Label"
+    }
+   ]
+  },
+  {
+   "name": "PENGAMAT PENGENDALIAN OPT",
+   "lsp": null,
+   "units": [
+    {
+     "code": "TAN.PT02.001.01",
+     "name": "Melaksanakan Pengamatan Keliling"
+    },
+    {
+     "code": "TAN.PT02.003.01",
+     "name": "Melaksanakan Pengamatan Tetap"
+    },
+    {
+     "code": "TAN.PT02.014.01",
+     "name": "Melaksanakan Pengendalian OPT/ Perlakuan karantina OPTK"
+    },
+    {
+     "code": "TAN.PT03.007.01",
+     "name": "Mengidentifikasi Cendawan"
+    },
+    {
+     "code": "TAN.PT03.008.01",
+     "name": "Mengidentifikasi Nematoda"
+    },
+    {
+     "code": "TAN.PT03.009.01",
+     "name": "Mengidentifikasi Serangga"
+    },
+    {
+     "code": "TAN.PT03.010.01",
+     "name": "Mengidentifikasi Gulma"
+    },
+    {
+     "code": "TAN.PT03.011.01",
+     "name": "Mengidentifikasi Tungau"
+    },
+    {
+     "code": "TAN.PT03.012.01",
+     "name": "Mengidentifikasi Mollusca"
+    }
+   ]
+  },
+  {
+   "name": "OPERATOR ALAT DAN MESIN PERTANIAN PANEN",
+   "lsp": null,
+   "units": [
+    {
+     "code": "A.01TAN00.001.01",
+     "name": "Melakukan Komunikasi Efektif"
+    },
+    {
+     "code": "A.01TAN00.002.01",
+     "name": "Menerapkan Keselamatan dan Kesehatan Kerja (K3)"
+    },
+    {
+     "code": "A.01TAN00.003.01",
+     "name": "Memastikan Alsintan Siap Dioperasikan"
+    },
+    {
+     "code": "A.01TAN00.004.01",
+     "name": "Menentukan Bahan dan/atau Lokasi Sesuai dengan Spesifikasi dan Fungsi Alsintan"
+    },
+    {
+     "code": "A.01TAN00.005.01",
+     "name": "Mengoperasikan Alsintan"
+    },
+    {
+     "code": "A.01TAN00.009.01",
+     "name": "Mengoperasikan Mesin Panen Padi Kombinasi"
+    },
+    {
+     "code": "A.01TAN00.010.01",
+     "name": "Mengoperasikan Mesin Perontok"
+    },
+    {
+     "code": "A.01TAN00.011.01",
+     "name": "Mengoperasikan Mesin Penggiling Gabah"
+    },
+    {
+     "code": "A.01TAN00.012.01",
+     "name": "Mengoperasikan Mesin Pengering"
+    },
+    {
+     "code": "A.012621.013.01",
+     "name": "Membuat Laporan Hasil Kerja"
+    }
+   ]
+  },
+  {
+   "name": "PELAKSANA PENGAWASAN PANGAN SEGAR ASAL TUMBUHAN DI PRODUSEN",
+   "lsp": null,
+   "units": [
+    {
+     "code": "A.010000.005.01",
+     "name": "Menyusun Rencana Kerja Pengawasan"
+    },
+    {
+     "code": "A.010000.006.01",
+     "name": "Mempersiapkan Perangkat Pengawasan"
+    },
+    {
+     "code": "A.010000.008.01",
+     "name": "Melakukan Pengawasan Panen dan Pasca Panen"
+    },
+    {
+     "code": "A.010000.009.01",
+     "name": "Melakukan Pengawasan Distribusi ke Pelanggan"
+    },
+    {
+     "code": "A.010000.014.01",
+     "name": "Menetapkan Keputusan Hasil pengawasan"
+    },
+    {
+     "code": "A.010000.015.01",
+     "name": "Menyusun Laporan Pengawasan"
+    },
+    {
+     "code": "A.010000.007.01",
+     "name": "Melakukan Pengawasan Manajemen Produksi"
+    }
+   ]
+  },
+  {
+   "name": "PELAKSANA PENGAWASAN PANGAN SEGAR ASAL TUMBUHAN DI PEREDARAN",
+   "lsp": null,
+   "units": [
+    {
+     "code": "A.010000.005.01",
+     "name": "Menyusun Rencana Kerja Pengawasan"
+    },
+    {
+     "code": "A.010000.006.01",
+     "name": "Mempersiapkan Perangkat Pengawasan"
+    },
+    {
+     "code": "A.010000.010.01",
+     "name": "Melakukan Pengawasan Tempat Penerimaan Produk dan Gudang Penyimpanan"
+    },
+    {
+     "code": "A.010000.011.01",
+     "name": "Melakukan Pengawasan Proses Pengemasan dan/atau Pengemasan Ulang"
+    },
+    {
+     "code": "A.010000.012.01",
+     "name": "Melakukan Pengawasan Tempat Pemajangan"
+    },
+    {
+     "code": "A.010000.013.01",
+     "name": "Melakukan Verifikasi Ketelusuran Dokumen"
+    },
+    {
+     "code": "A.010000.014.01",
+     "name": "Menetapkan Keputusan Hasil pengawasan"
+    },
+    {
+     "code": "A.010000.015.01",
+     "name": "Menyusun Laporan Pengawasan"
+    }
+   ]
+  },
+  {
+   "name": "PELAKSANA BUDIDAYA ORGANIK TANAMAN",
+   "lsp": null,
+   "units": [
+    {
+     "code": "A.013020.001.01",
+     "name": "Menerapkan Keselamatan dan Kesehatan Kerja"
+    },
+    {
+     "code": "TAN.OT02.013.01",
+     "name": "Menilai Perlakuan Terhadap Ternak"
+    },
+    {
+     "code": "TAN.OT02.006.01",
+     "name": "Melaksanakan Sistem Jaminan Mutu Organik"
+    },
+    {
+     "code": "TAN.OT02.010.01",
+     "name": "Mengelola Kesuburan Tanah"
+    },
+    {
+     "code": "TAN.OT02.011.01",
+     "name": "Mengelola Pengairan"
+    },
+    {
+     "code": "TAN.OT02.012.01",
+     "name": "Mempersiapkan Benih/Bahan Tanam Organik"
+    },
+    {
+     "code": "TAN.OT02.014.01",
+     "name": "Mengelola Panen dan Pasca Panen"
+    },
+    {
+     "code": "TAN.SY01.001.01",
+     "name": "Melakukan Sanitasi Lahan"
+    }
+   ]
+  },
+  {
+   "name": "PELAKSANA PROSES PUPUK ORGANIK TANAMAN",
+   "lsp": null,
+   "units": [
+    {
+     "code": "A.013020.001.01",
+     "name": "Menerapkan Keselamatan dan Kesehatan Kerja"
+    },
+    {
+     "code": "TAN.OT02.008.01",
+     "name": "Memproses Pupuk Organik"
+    }
+   ]
+  },
+  {
+   "name": "PELAKSANA PROSES PESTISIDA ORGANIK TANAMAN",
+   "lsp": null,
+   "units": [
+    {
+     "code": "A.013020.001.01",
+     "name": "Menerapkan Keselamatan dan Kesehatan Kerja"
+    },
+    {
+     "code": "TAN.OT02.009.01",
+     "name": "Memproses Pestisida Organik"
+    }
+   ]
+  },
+  {
+   "name": "PELAKSANA PENGADAAN BENIH TANAMAN HUTAN",
+   "lsp": null,
+   "units": [
+    {
+     "code": "KHT.RC01.001.01",
+     "name": "Menerapkan Panduan K3"
+    },
+    {
+     "code": "KHT.PT02.004.01",
+     "name": "Menghitung potensi produksi benih"
+    },
+    {
+     "code": "KHT.PT02.005.01",
+     "name": "Membuat rencana pengunduhan"
+    },
+    {
+     "code": "KHT.PT02.006.01",
+     "name": "Mengunduh buah"
+    },
+    {
+     "code": "KHT.PT02.007.01",
+     "name": "Menyimpan buah/benih sementara di tempat ekstraksi"
+    }
+   ]
+  },
+  {
+   "name": "PELAKSANA PENANGANAN BENIH TANAMAN HUTAN",
+   "lsp": null,
+   "units": [
+    {
+     "code": "KHT.RC01.001.01",
+     "name": "Menerapkan Panduan K3"
+    },
+    {
+     "code": "KHT.PT02.008.01",
+     "name": "Melakukan ekstraksi buah"
+    },
+    {
+     "code": "KHT.PT02.009.01",
+     "name": "Melakukan sortasi benih"
+    },
+    {
+     "code": "KHT.PT02.010.01",
+     "name": "Melakukan pengeringan benih"
+    },
+    {
+     "code": "KHT.PT02.011.01",
+     "name": "Menyimpan benih"
+    }
+   ]
+  },
+  {
+   "name": "PEMBUAT BIBIT GENERATIF",
+   "lsp": null,
+   "units": [
+    {
+     "code": "KHT.RC01.001.01",
+     "name": "Menerapkan Panduan K3"
+    },
+    {
+     "code": "KHT.RH02.001.01",
+     "name": "Menyiapkan media bibit"
+    },
+    {
+     "code": "KHT.RH02.002.01",
+     "name": "Menyemaikan benih"
+    },
+    {
+     "code": "KHT.RH02.003.01",
+     "name": "Menyapih bibit"
+    },
+    {
+     "code": "KHT.RH02.004.01",
+     "name": "Memelihara bibit"
+    },
+    {
+     "code": "KHT.RH02.005.01",
+     "name": "Menyeleksi bibti siap tanam"
+    },
+    {
+     "code": "KHT.RH02.006.01",
+     "name": "Mengemas dan mengangkut bibit"
+    }
+   ]
+  },
+  {
+   "name": "PEMBUAT BIBIT VEGETATIF",
+   "lsp": null,
+   "units": [
+    {
+     "code": "KHT.RC01.001.01",
+     "name": "Menerapkan Panduan K3"
+    },
+    {
+     "code": "KHT.PT02.017.01",
+     "name": "Membuat stek batang"
+    },
+    {
+     "code": "KHT.PT02.018.01",
+     "name": "Membuat stek pucuk"
+    },
+    {
+     "code": "KHT.PT02.019.01",
+     "name": "Membuat stek akar"
+    }
+   ]
+  },
+  {
+   "name": "Operator Telur Tetas",
+   "lsp": null,
+   "units": [
+    {
+     "code": "A.01UGS00.001.01",
+     "name": "Menerapkan Prosedur Keselamatan dan Kesehatan Kerja (K3)"
+    },
+    {
+     "code": "A.01UGS00.005.01",
+     "name": "Mengelola Telur Tetas"
+    },
+    {
+     "code": "A.01UGS00.006.01",
+     "name": "Menetaskan Telur Tetas"
+    },
+    {
+     "code": "A.01UGS00.018.01",
+     "name": "Melakukan Biosekuriti"
+    },
+    {
+     "code": "A.01UGS00.023.01",
+     "name": "Melakukan Pemanenan Hasil Penetasan Anak Unggas"
+    }
+   ]
+  },
+  {
+   "name": "Operator/ Anak Kandang Farm Unggas Pedaging",
+   "lsp": null,
+   "units": [
+    {
+     "code": "A.01UGS00.001.01",
+     "name": "Menerapkan Prosedur Keselamatan dan Kesehatan Kerja (K3)"
+    },
+    {
+     "code": "A.01UGS00.009.01",
+     "name": "Menyiapkan Kandang Produksi"
+    },
+    {
+     "code": "A.01UGS00.010.01",
+     "name": "Mengelola Unggas Periode Starter"
+    },
+    {
+     "code": "A.01UGS00.013.01",
+     "name": "Mengelola Unggas Periode Finisher"
+    },
+    {
+     "code": "A.01UGS00.018.01",
+     "name": "Melakukan Biosekuriti"
+    }
+   ]
+  },
+  {
+   "name": "Operator/Anak Kandang Farm Unggas Petelur",
+   "lsp": null,
+   "units": [
+    {
+     "code": "A.01UGS00.001.01",
+     "name": "Menerapkan Prosedur Keselamatan dan Kesehatan Kerja (K3)"
+    },
+    {
+     "code": "A.01UGS00.009.01",
+     "name": "Menyiapkan Kandang Produksi"
+    },
+    {
+     "code": "A.01UGS00.010.01",
+     "name": "Mengelola Unggas Periode Starter"
+    },
+    {
+     "code": "A.01UGS00.012.01",
+     "name": "Mengelola Unggas Periode Layer"
+    },
+    {
+     "code": "A.01UGS00.018.01",
+     "name": "Melakukan Biosekuriti"
+    }
+   ]
+  },
+  {
+   "name": "Operator Pencampur Pakan",
+   "lsp": null,
+   "units": [
+    {
+     "code": "A.01UGS00.001.01",
+     "name": "Menerapkan Prosedur Keselamatan dan Kesehatan Kerja (K3)"
+    },
+    {
+     "code": "A.01UGS00.015.01",
+     "name": "Mencampur bahan Pakan Unggas"
+    },
+    {
+     "code": "A.01UGS00.016.01",
+     "name": "Menghitung jumlah Kebutuhan Pakan"
+    },
+    {
+     "code": "A.01UGS00.017.01",
+     "name": "Menyimpan Bahan Pakan dan Pakan"
+    },
+    {
+     "code": "A.01UGS00.018.01",
+     "name": "Melakukan Biosekuriti"
+    }
+   ]
+  },
+  {
+   "name": "MANDOR KEBUN KELAPA SAWIT",
+   "lsp": null,
+   "units": [
+    {
+     "code": "A.012621.001.01",
+     "name": "Menentukan Pekerjaan yang akan Dilaksanakan"
+    },
+    {
+     "code": "A.012621.002.01",
+     "name": "Menentukan Sumber daya yang Diperlukan"
+    },
+    {
+     "code": "A.012621.003.01",
+     "name": "Menyiapkan Alat dan Bahan yang Diperlukan"
+    },
+    {
+     "code": "A.012621.004.01",
+     "name": "Melakukan Pengarahan Pekerjaan Penyiapan Lahan"
+    },
+    {
+     "code": "A.012621.005.01",
+     "name": "Melakukan Pengarahan Pekerjaan Pembibitan"
+    },
+    {
+     "code": "A.012621.006.01",
+     "name": "Melakukan Pengarahan Pekerjaan Penanaman"
+    },
+    {
+     "code": "A.012621.007.01",
+     "name": "Melakukan Pengarahan Pekerjaan Pemeliharaan"
+    },
+    {
+     "code": "A.012621.008.01",
+     "name": "Melakukan Pengarahan Pekerjaan Panen"
+    },
+    {
+     "code": "A.012621.009.01",
+     "name": "Melakukan Pembagian Tugas Kepada Pekerja"
+    },
+    {
+     "code": "A.012621.010.01",
+     "name": "Mengawasi Pekerja Sesuai Arahan"
+    },
+    {
+     "code": "A.012621.011.01",
+     "name": "Menilai Kesesuaian Hasil Kerja"
+    },
+    {
+     "code": "A.012621.012.01",
+     "name": "Menghimpun Data Hasil Pelaksanaan Pekerjaan"
+    },
+    {
+     "code": "A.012621.013.01",
+     "name": "Membuat Laporan Hasil Kerja"
+    }
+   ]
+  },
+  {
+   "name": "Pemeriksa Mutu Benih Tanaman Hutan",
+   "lsp": null,
+   "units": [
+    {
+     "code": "KHT.RC01.001.01",
+     "name": "Menerapkan Panduan K3"
+    },
+    {
+     "code": "KHT.PT02.012.01",
+     "name": "Mengambil benih contoh"
+    },
+    {
+     "code": "KHT.PT02.013.01",
+     "name": "Menganalisa kemurnian benih"
+    },
+    {
+     "code": "KHT.PT02.014.01",
+     "name": "Menentukan berat seribu butir"
+    },
+    {
+     "code": "KHT.PT02.015.01",
+     "name": "Menetapkan kadar air"
+    },
+    {
+     "code": "KHT.PT02.016.01",
+     "name": "Menguji daya berkecambah"
+    },
+    {
+     "code": "KHT.PT03.002.01",
+     "name": "Memeriksa hasil pengujian mutu benih"
+    },
+    {
+     "code": "KHT.PT03.003.01",
+     "name": "Memeriksa mutu genetik benih"
+    }
+   ]
+  },
+  {
+   "name": "Manajer Pemasaran Agribisnis",
+   "lsp": null,
+   "units": [
+    {
+     "code": "M.741000.005.01",
+     "name": "Menentukan jenis produk yang akan diusahakan"
+    },
+    {
+     "code": "A.01AGR00.005.1",
+     "name": "Menetapkan Rencana Agribinis"
+    },
+    {
+     "code": "A.01AGR00.013.1",
+     "name": "Melakukan Kesepahaman Kontrak Kerja dengan Pihak Internal Terintegrasi"
+    },
+    {
+     "code": "A.01AGR00.016.1",
+     "name": "Melakukan Negosiasi Kontrak Kerja dengan Sumber Eksternal"
+    },
+    {
+     "code": "A.01AGR00.017.1",
+     "name": "Memonitor Kinerja Bisnis"
+    },
+    {
+     "code": "A.01AGR00.020.1",
+     "name": "Mengembangkan Rencana Pemasaran"
+    },
+    {
+     "code": "A.01AGR00.022.1",
+     "name": "Mengembangkan Pasar Ekspor"
+    },
+    {
+     "code": "A.01AGR00.026.1",
+     "name": "Mengelola Keuangan Bisnis"
+    },
+    {
+     "code": "A.01AGR00.029.1",
+     "name": "Mengelola Modal Usaha"
+    },
+    {
+     "code": "A.01AGR00.032.1",
+     "name": "Melaporkan Kegiatan Keuangan"
+    },
+    {
+     "code": "A.01AGR00.040.1",
+     "name": "Mengelola Sistem Manajemen Mutu Perusahaan"
+    },
+    {
+     "code": "A.01AGR00.041.1",
+     "name": "Melakukan Kaji Ulang Rencana Strategi Perusahaan"
+    },
+    {
+     "code": "A.01AGR00.043.1",
+     "name": "Menganalisis Hubungan Dalam Lingkungan Bisnis"
+    },
+    {
+     "code": "A.01AGR00.046.1",
+     "name": "Mengelola Risiko"
+    },
+    {
+     "code": "M.70SDM01.004.2",
+     "name": "Merancang Desain Organisasi"
+    },
+    {
+     "code": "M.70SDM01.029.2",
+     "name": "Mengelola Proses Penilaian Kinerja Individu"
+    }
+   ]
+  },
+  {
+   "name": "Manajer Produksi Agribisnis",
+   "lsp": null,
+   "units": [
+    {
+     "code": "M.741000.005.01",
+     "name": "Menentukan jenis produk yang akan diusahakan"
+    },
+    {
+     "code": "A.01AGR00.003.1",
+     "name": "Merencanakan Infrastruktur"
+    },
+    {
+     "code": "A.01AGR00.004.1",
+     "name": "Merencanakan Produksi Berbasis Kesesuaian Lahan"
+    },
+    {
+     "code": "A.01AGR00.005.1",
+     "name": "Menetapkan Rencana Agribinis"
+    },
+    {
+     "code": "A.01AGR00.014.1",
+     "name": "Menganalisis Data Produksi"
+    },
+    {
+     "code": "A.01AGR00.017.1",
+     "name": "Memonitor Kinerja Bisnis"
+    },
+    {
+     "code": "A.01AGR00.026.1",
+     "name": "Mengelola Keuangan Bisnis"
+    },
+    {
+     "code": "A.01AGR00.029.1",
+     "name": "Mengelola Modal Usaha"
+    },
+    {
+     "code": "A.01AGR00.032.1",
+     "name": "Melaporkan Kegiatan Keuangan"
+    },
+    {
+     "code": "A.01AGR00.037.1",
+     "name": "Menganalisis Kinerja Bisnis"
+    },
+    {
+     "code": "A.01AGR00.040.1",
+     "name": "Mengelola Sistem Manajemen Mutu Perusahaan"
+    },
+    {
+     "code": "A.01AGR00.041.1",
+     "name": "Melakukan Kaji Ulang Rencana Strategi Perusahaan"
+    },
+    {
+     "code": "A.01AGR00.042.1",
+     "name": "Melakukan Kaji Ulang Rencana Strategi Pengelolaan Lahan"
+    },
+    {
+     "code": "A.01AGR00.046.1",
+     "name": "Mengelola Risiko"
+    },
+    {
+     "code": "M.70SDM01.004.2",
+     "name": "Merancang Desain Organisasi"
+    },
+    {
+     "code": "M.70SDM01.029.2",
+     "name": "Mengelola Proses Penilaian Kinerja Individu"
+    }
+   ]
+  },
+  {
+   "name": "Manajer SDM Agribisnis",
+   "lsp": null,
+   "units": [
+    {
+     "code": "A.01AGR00.005.1",
+     "name": "Menetapkan Rencana Agribinis"
+    },
+    {
+     "code": "A.01AGR00.017.1",
+     "name": "Memonitor Kinerja Bisnis"
+    },
+    {
+     "code": "A.01AGR00.026.1",
+     "name": "Mengelola Keuangan Bisnis"
+    },
+    {
+     "code": "A.01AGR00.029.1",
+     "name": "Mengelola Modal Usaha"
+    },
+    {
+     "code": "A.01AGR00.032.1",
+     "name": "Melaporkan Kegiatan Keuangan"
+    },
+    {
+     "code": "A.01AGR00.040.1",
+     "name": "Mengelola Sistem Manajemen Mutu Perusahaan"
+    },
+    {
+     "code": "A.01AGR00.041.1",
+     "name": "Melakukan Kaji Ulang Rencana Strategi Perusahaan"
+    },
+    {
+     "code": "A.01AGR00.046.1",
+     "name": "Mengelola Risiko"
+    },
+    {
+     "code": "M.70SDM01.001.2",
+     "name": "Merumuskan Strategi dan Kebijakan Manajemen Sumber Daya Manusia (MSDM)"
+    },
+    {
+     "code": "M.70SDM01.004.2",
+     "name": "Merancang Desain Organisasi"
+    },
+    {
+     "code": "M.70SDM01.012.2",
+     "name": "Menyusun Kebutuhan SDM"
+    },
+    {
+     "code": "M.70SDM01.023.2",
+     "name": "Menyusun Sistem Remunerasi"
+    },
+    {
+     "code": "M.70SDM01.029.2",
+     "name": "Mengelola Proses Penilaian Kinerja Individu"
+    },
+    {
+     "code": "M.70SDM01.030.2",
+     "name": "Menindaklanjuti Hasil Penilaian Kinerja Individu"
+    },
+    {
+     "code": "M.70SDM01.032.2",
+     "name": "Merancang Program Pembelajaran dan Pengembangan"
+    },
+    {
+     "code": "M.70SDM01.043.2",
+     "name": "Menyusun Peraturan Perusahaan dan/atau Perjanjian Kerja Bersama"
+    }
+   ]
+  },
+  {
+   "name": "Asisten Manajer Produksi Agribisnis",
+   "lsp": null,
+   "units": [
+    {
+     "code": "A.01AGR00.002.1",
+     "name": "Mengelola Proses Keselamatan dan Kesehatan Kerja (K3)"
+    },
+    {
+     "code": "A.01AGR00.006.1",
+     "name": "Melaksanakan Strategi Pemanfaatan Lahan Secara Berkelanjutan"
+    },
+    {
+     "code": "A.01AGR00.008.1",
+     "name": "Mengelola Sistem Produksi"
+    },
+    {
+     "code": "A.01AGR00.009.1",
+     "name": "Mengelola Operasional Agribisnis"
+    },
+    {
+     "code": "A.01AGR00.014.1",
+     "name": "Menganalisis Data Produksi"
+    },
+    {
+     "code": "A.01AGR00.018.1",
+     "name": "Memonitor Proses Produksi"
+    },
+    {
+     "code": "A.01AGR00.031.1",
+     "name": "Mengelola Anggaran"
+    },
+    {
+     "code": "A.01AGR00.034.1",
+     "name": "Menangani Konflik"
+    },
+    {
+     "code": "A.01AGR00.037.1",
+     "name": "Menganalisis Kinerja Bisnis"
+    },
+    {
+     "code": "A.01AGR00.043.1",
+     "name": "Menganalisis Hubungan Dalam Lingkungan Bisnis"
+    },
+    {
+     "code": "A.01AGR00.048.1",
+     "name": "Menerapkan Strategi Pengelolaan Risiko Iklim"
+    },
+    {
+     "code": "M.70SDM01.026.2",
+     "name": "Mengelola Proses Perumusan Indikator Kinerja Individu"
+    },
+    {
+     "code": "M.70SDM01.033.2",
+     "name": "Melaksanakan Kegiatan Pembelajaran dan Pengembangan"
+    },
+    {
+     "code": "M.70SDM01.048.2",
+     "name": "Mengelola Proses Pelaksanaan Tindakan Disiplin"
+    }
+   ]
+  },
+  {
+   "name": "Asisten Manajer Keuangan Agribisnis",
+   "lsp": null,
+   "units": [
+    {
+     "code": "A.01AGR00.002.1",
+     "name": "Mengelola Proses Keselamatan dan Kesehatan Kerja (K3)"
+    },
+    {
+     "code": "A.01AGR00.009.1",
+     "name": "Mengelola Operasional Agribisnis"
+    },
+    {
+     "code": "A.01AGR00.024.1",
+     "name": "Menyiapkan Perkiraan, Penawaran atau Tender"
+    },
+    {
+     "code": "A.01AGR00.026.1",
+     "name": "Mengelola Keuangan Bisnis"
+    },
+    {
+     "code": "A.01AGR00.029.1",
+     "name": "Mengelola Modal Usaha"
+    },
+    {
+     "code": "A.01AGR00.031.1",
+     "name": "Mengelola Anggaran"
+    },
+    {
+     "code": "A.01AGR00.034.1",
+     "name": "Menangani Konflik"
+    },
+    {
+     "code": "A.01AGR00.037.1",
+     "name": "Menganalisis Kinerja Bisnis"
+    },
+    {
+     "code": "A.01AGR00.038.1",
+     "name": "Mengevaluasi Penyedia Barang dan Jasa"
+    },
+    {
+     "code": "A.01AGR00.043.1",
+     "name": "Menganalisis Hubungan Dalam Lingkungan Bisnis"
+    },
+    {
+     "code": "A.01AGR00.046.1",
+     "name": "Mengelola Risiko"
+    },
+    {
+     "code": "M.70SDM01.026.2",
+     "name": "Mengelola Proses Perumusan Indikator Kinerja Individu"
+    },
+    {
+     "code": "M.70SDM01.033.2",
+     "name": "Melaksanakan Kegiatan Pembelajaran dan Pengembangan"
+    },
+    {
+     "code": "M.70SDM01.048.2",
+     "name": "Mengelola Proses Pelaksanaan Tindakan Disiplin"
+    }
+   ]
+  },
+  {
+   "name": "Pengoperasian Traktor Pertanian Roda Dua",
+   "lsp": null,
+   "units": [
+    {
+     "code": "A.01TAN00.001.01",
+     "name": "Melakukan Komunikasi Efektif"
+    },
+    {
+     "code": "A.01TAN00.002.01",
+     "name": "Menerapkan Keselamatan dan Kesehatan Kerja (K3)"
+    },
+    {
+     "code": "A.01TAN00.003.01",
+     "name": "Memastikan Alsintan Siap Dioperasikan"
+    },
+    {
+     "code": "A.01TAN00.006.01",
+     "name": "Mengoperasikan Traktor Roda 2 untuk Pengolahan Tanah"
+    }
+   ]
+  },
+  {
+   "name": "Pemeliharaan Traktor Pertanian Roda Dua",
+   "lsp": null,
+   "units": [
+    {
+     "code": "A.01TAN00.001.01",
+     "name": "Melakukan Komunikasi Efektif"
+    },
+    {
+     "code": "A.01TAN00.002.01",
+     "name": "Menerapkan Keselamatan dan Kesehatan Kerja (K3)"
+    },
+    {
+     "code": "A.01TAN00.003.01",
+     "name": "Memastikan Alsintan Siap Dioperasikan"
+    },
+    {
+     "code": "A.01TAN00.016.01",
+     "name": "Merawat Alsintan"
+    },
+    {
+     "code": "A.01TAN00.017.01",
+     "name": "Memperbaiki Kerusakan Alsintan"
+    }
+   ]
+  },
+  {
+   "name": "PELAKSANA PENANGANAN KEAMANAN PANGAN PADA RITEL PANGAN",
+   "lsp": null,
+   "units": [
+    {
+     "code": "C.100000.008.01",
+     "name": "Melakukan praktek penanganan pangan yang aman"
+    },
+    {
+     "code": "C.100000.070.01",
+     "name": "Mengaplikasikan praktek keamanan pangan di retail"
+    },
+    {
+     "code": "C.100000.072.01",
+     "name": "Menangani Keamanan Produk di Ritel Pangan"
+    },
+    {
+     "code": "C.100000.075.01",
+     "name": "Menjaga keamanan pangan ketika memuat, menurunkan, dan mengantar makanan"
+    }
+   ]
+  },
+  {
+   "name": "TEKNISI PENANGANAN KEAMANAN PANGAN PADA RITEL PANGAN",
+   "lsp": null,
+   "units": [
+    {
+     "code": "C.100000.006.01",
+     "name": "Melaksanakan program dan prosedur keamanan pangan"
+    },
+    {
+     "code": "C.100000.008.01",
+     "name": "Melakukan praktek penanganan pangan yang aman"
+    },
+    {
+     "code": "C.100000.070.01",
+     "name": "Mengaplikasikan praktek keamanan pangan di retail"
+    },
+    {
+     "code": "C.100000.071.01",
+     "name": "Mengelola penerapan cara retail pangan yang baik"
+    },
+    {
+     "code": "C.100000.072.01",
+     "name": "Menangani Keamanan Produk di Ritel Pangan"
+    },
+    {
+     "code": "C.100000.073.01",
+     "name": "Memantau penerapan cara ritel pangan yang baik"
+    },
+    {
+     "code": "C.100000.075.01",
+     "name": "Menjaga keamanan pangan ketika memuat, menurunkan, dan mengantar makanan"
+    }
+   ]
+  },
+  {
+   "name": "Operasi Penyulingan Minyak Atsiri",
+   "lsp": null,
+   "units": [
+    {
+     "code": "C.20ESO01.001.1",
+     "name": "Melakukan Pengeringan Bahan Baku Secara Manual"
+    },
+    {
+     "code": "C.20ESO01.003.1",
+     "name": "Melakukan Perajangan Bahan Baku Secara Manual"
+    },
+    {
+     "code": "C.20ESO01.005.1",
+     "name": "Mengoperasikan Alat Penyulingan"
+    },
+    {
+     "code": "C.20ESO01.019.1",
+     "name": "Melakukan Pengemasan Manual"
+    }
+   ]
+  },
+  {
+   "name": "Penyuluh Pertanian Fasilitator",
+   "lsp": "LSP Pertanian Nusantara",
+   "units": [
+    {
+     "code": "M.74PPP01.001.01",
+     "name": "Melaksanakan Komunikasi Efektif"
+    },
+    {
+     "code": "M.74PPP01.005.01",
+     "name": "Menerapkan Teknologi Informasi"
+    },
+    {
+     "code": "M.74PPP01.006.01",
+     "name": "Menerapkan Prosedur Keselamatan dan Kesehatan Kerja (K3)"
+    },
+    {
+     "code": "M.74PPP01.008.01",
+     "name": "Menyusun Data Potensi Wilayah"
+    },
+    {
+     "code": "M.74PPP01.009.03",
+     "name": "Menyusun Programa Penyuluhan Pertanian"
+    },
+    {
+     "code": "M.74PPP01.010.01",
+     "name": "Memfasilitasi Proses Pembelajaran"
+    },
+    {
+     "code": "M.74PPP01.013.01",
+     "name": "Memfasilitasi Penerapan Teknologi"
+    },
+    {
+     "code": "M.74PPP01.014.01",
+     "name": "Memfasilitasi Peningkatan Produktivitas Usahatani"
+    },
+    {
+     "code": "M.74PPP01.023.01",
+     "name": "Memfasilitasi Pengelolaan Subsistem Agroinput"
+    },
+    {
+     "code": "M.74PPP01.024.01",
+     "name": "Memfasilitasi Pengelolaan Subsistem Agroproduksi"
+    },
+    {
+     "code": "M.74PPP01.025.01",
+     "name": "Memfasilitasi Pengelolaan Subsistem Agroprocessing"
+    },
+    {
+     "code": "M.74PPP01.026.01",
+     "name": "Memfasilitasi Pengelolaan Subsistem Agroniaga"
+    },
+    {
+     "code": "M.74PPP01.027.01",
+     "name": "Memfasilitasi Perencanaan Usaha Agribisnis"
+    }
+   ]
+  },
+  {
+   "name": "Penyuluh Pertanian Supervisor",
+   "lsp": "LSP Pertanian Nusantara",
+   "units": [
+    {
+     "code": "M.74PPP01.001.01",
+     "name": "Melaksanakan Komunikasi Efektif"
+    },
+    {
+     "code": "M.74PPP01.005.01",
+     "name": "Menerapkan Teknologi Informasi"
+    },
+    {
+     "code": "M.74PPP01.006.01",
+     "name": "Menerapkan Prosedur Keselamatan dan Kesehatan Kerja (K3)"
+    },
+    {
+     "code": "M.74PPP01.007.01",
+     "name": "Membangun Jejaring Kerja Sama"
+    },
+    {
+     "code": "M.74PPP01.008.01",
+     "name": "Menyusun Data Potensi Wilayah"
+    },
+    {
+     "code": "M.74PPP01.009.03",
+     "name": "Menyusun Programa Penyuluhan Pertanian"
+    },
+    {
+     "code": "M.74PPP01.011.01",
+     "name": "Melakukan Penumbuhan Kelembagaan Petani"
+    },
+    {
+     "code": "M.74PPP01.012.01",
+     "name": "Menumbuhkembangkan Kelembagaan Ekonomi Petani"
+    },
+    {
+     "code": "M.74PPP01.015.01",
+     "name": "Menumbuhkembangkan Pos Penyuluhan Desa"
+    },
+    {
+     "code": "M.74PPP01.017.03",
+     "name": "Mengevaluasi Pelaksanaan Kegiatan Penyuluhan Pertanian"
+    },
+    {
+     "code": "M.74PPP01.018.01",
+     "name": "Mengevaluasi Programa Penyuluhan Pertanian"
+    },
+    {
+     "code": "M.74PPP01.019.03",
+     "name": "Mengevaluasi Dampak Penyuluhan Pertanian"
+    }
+   ]
+  },
+  {
+   "name": "Pembuatan Pupuk Organik",
+   "lsp": "LSP Pertanian Nusantara",
+   "units": [
+    {
+     "code": "TAN.OT01.001.01",
+     "name": "Mengorganisasikan Pekerjaan"
+    },
+    {
+     "code": "TAN.OT02.006.01",
+     "name": "Melaksanakan Sistem Jaminan Mutu Organik"
+    },
+    {
+     "code": "TAN.OT02.008.01",
+     "name": "Memproses Pupuk Organik"
+    },
+    {
+     "code": "TAN.OT02.010.01",
+     "name": "Mengelola Kesuburan Tanah"
+    }
+   ]
+  }
+ ]
+}
